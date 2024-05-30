@@ -1,0 +1,16 @@
+/*
+* File: style.css
+* Author: Ács Bence
+* Copyright: 2024, Ács Bence
+* Group: Szoft-2-N
+* Date: 2024-05-30
+* Github: https://github.com/acsbence2023/
+* Licenc: GNU GPL
+*/
+body{
+    background-color: red;
+}
+h1{
+    text-align: center;
+    background-color: white;
+}
